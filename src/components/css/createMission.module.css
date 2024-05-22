@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.CreateMissionBlock {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-between;
+    margin: 3%;
+    padding: 3% 2% 1% 2%;
+    border: 1px solid rgb(94, 142, 230);
+    max-width: 100%;
+    min-height: 250px;
+    border-radius: 15px;
+    background-image: url("https://media.istockphoto.com/id/1466669509/pt/vetorial/night-starry-sky-with-full-moon-and-cloud-vector-background-with-cloudy-sky-moonlight.jpg?s=612x612&w=0&k=20&c=Vqts3Fuh_pkqgunmWtamJQcox8RnCbCpqBlARhGH-is=");
+}
+
+h1 {
+    color: white;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: 500;
+    font-family: Montserrat;
+    padding: 10px;
+    margin: 0;
+    border-radius: 15px;
+}

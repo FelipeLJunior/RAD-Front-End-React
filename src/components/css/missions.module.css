@@ -1,0 +1,16 @@
+.Bottom {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.AllMissions {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#Title {
+    color: aliceblue;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.MissionBox {
+    background-color: #1e1c1c;
+    max-width: 300px;
+    border: 1px solid #5b6ddd;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 25px 5px 0px;
+}
+
+#Date {
+    text-align: end;
+    color: antiquewhite;
+    margin: 0px 1px;
+}
+
+.SubTitle {
+    color: antiquewhite;
+    margin: 0px 0px 2px 0px;
+}
+
+.Content {
+    font-size:smaller;
+    color: rgb(205, 209, 229);
+}
